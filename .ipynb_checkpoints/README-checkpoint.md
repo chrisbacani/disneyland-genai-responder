@@ -49,6 +49,7 @@ echo "OPENAI_API_KEY=your_openai_key_here" > .env
 # 4. Launch the notebook
 jupyter notebook
 
----
+```
 
-> Author: **Christopher Bacani**, 2025
+#### Author: 
+**Christopher Bacani**, 2025
